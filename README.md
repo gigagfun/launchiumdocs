@@ -183,7 +183,6 @@ const weeklyBurn = async () => {
 
 - Smart contracts audited
 - Liquidity permanently locked
-- No rug pulls possible
 - Team from Microsoft & Uber
 
 ## Links
