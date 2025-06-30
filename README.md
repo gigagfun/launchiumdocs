@@ -36,9 +36,9 @@ Launchium is a Solana-based platform that lets you create tokens directly throug
 ### 3. Trade Immediately
 
 Your token is instantly available on:
-- Jupiter
-- Meteora
-- All Solana DEXs
+
+ -Meteora
+
 
 ## Technical Implementation
 
