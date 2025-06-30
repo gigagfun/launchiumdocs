@@ -7,7 +7,7 @@
 
 ## Overview
 
-Launchium is the first social media token launcher on Solana. Create tokens directly from Twitter, with TikTok, Reddit, Telegram, and Meta platforms coming soon.
+Launchium is a Solana-based platform that lets you create tokens directly through social media. Start with Twitter - TikTok, Reddit, Telegram, and Meta integrations are on the way.
 
 ### Why Launchium?
 
